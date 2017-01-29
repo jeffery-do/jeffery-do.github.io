@@ -1,4 +1,4 @@
-## Welcome to Jeffery Do's Notes
+## Welcome
 
 ### Purpose
 I mainly code, write, complain, and argue.
