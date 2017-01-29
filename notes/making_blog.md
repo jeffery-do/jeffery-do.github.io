@@ -22,4 +22,17 @@ Oh, and additionally while installing bundler, apparently it required a newer ve
 - [Related Github Issue](https://github.com/Homebrew/homebrew-core/issues/5799)
 - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra) I actually didn't set up Rails here. I added rbenv, and set my global ruby to 2.4.0..
 
+I chose a nice theme from [jekyll-theme search](https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme).
+I then proceeded to follow more of the setup github pages with jekyll page.
 
+my Gemfile ended up being:
+``` ruby
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+gem 'beautiful-jekyll-theme'
+```
+
+I followed that by doing
+``` bash
+bundle install
+```
