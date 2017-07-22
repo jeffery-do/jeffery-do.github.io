@@ -8,6 +8,5 @@ Hopefully it will be of some use.
 
 ### Navigation
 - Blog
-- Notes
+- [./notes](Notes)
 - Guides
-
