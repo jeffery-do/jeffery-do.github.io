@@ -1,4 +1,4 @@
-# 8 git Commands I Show Every Beginner
+# 8 Git Commands I Show Every Beginner
 
 “Those who fail to remember the past are condemned to repeat it.” - George Santayana
 

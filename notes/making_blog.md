@@ -1,4 +1,4 @@
-## How I made this blog
+## How I Made This Blog
 
 # Setup
 I first followed:
