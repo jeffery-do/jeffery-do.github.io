@@ -16,13 +16,13 @@ git checkout master # go back to master
 Now check out your github repo somewhere like here:
 https://github.com/jeffery-do/jeffery-do.github.io
 If you recently pushed, you should be able to see something like this:
-![recently pushed branch image][images/recently_pushed_branch.png]
+![recently pushed branch image](images/recently_pushed_branch.png)
 From there, you should be able to create a PR. 
 
-![create pull request image][images/create_pull_request.png]
+![create pull request image](images/create_pull_request.png)
 After creating a PR, other people can see your code and comment on your PR.
 
-![commenting a pr image][images/commenting_a_pr.png]
+![commenting a pr image](images/commenting_a_pr.png)
 At any point after you've pushed your branch, people can view branch, and commit their own code to it.
 Once everything is nice and tidy, all the commits can be merged with master.
 Once the commits have been merged with master, everyone will be able to pull those commits from master.
