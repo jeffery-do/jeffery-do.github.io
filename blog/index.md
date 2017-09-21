@@ -1,4 +1,4 @@
-## Notes
+## Blog
 
 [How I Made This Blog](making_blog.md)
 
